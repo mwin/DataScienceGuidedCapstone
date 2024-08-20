@@ -1,0 +1,40 @@
+ Guided Capstone Project Report: Big Mountain Resort
+
+ Introduction
+This report presents the findings and recommendations for Big Mountain Resort based on a detailed analysis of their current pricing strategy and the potential impact of various facility improvements. The goal was to determine whether Big Mountain is currently underpricing its offerings and to explore the financial implications of potential upgrades.
+
+Current Pricing and Model Insights
+Big Mountain's current ticket price appears to be lower than what our model suggests the market could support, given the resort's facilities. The analysis revealed that enhancing certain key features, such as adding runs, increasing vertical drop, expanding snow-making capabilities, and installing new chair lifts, could justify a significant price increase.
+
+ Key Findings
+1. Potential Price Increase:
+   - The model predicts that improvements in features like the number of runs, vertical drop, total chairs, and snow-making capacity could support a higher ticket price in the market.
+   - For example, a 1% increase in runs, an additional 150 feet in vertical drop, and one more chair lift could lead to a significant price increase, which could be further boosted by increasing snow-making capacity by 2 acres.
+
+2. Revenue Impact:
+   - The potential revenue increase was calculated based on the assumption that each visitor purchases 5 tickets.
+   - Enhancing the aforementioned features could lead to a substantial revenue increase, which would likely outweigh the additional operating costs associated with these improvements.
+
+3. Cost Considerations:
+   - The additional operating cost per ticket due to the new chair lift and other improvements should be factored into the price increase. If the price increase exceeds these costs, the improvements would be financially beneficial.
+
+4. Price Mismatch:
+   - The modeled ticket price being higher than the current price suggests that Big Mountain might be underpricing its offerings compared to its competitors.
+   - This mismatch could surprise business executives, indicating a potential opportunity to align prices more closely with the value provided by the resort's facilities.
+
+ Recommendations
+1. Implement Price Adjustments:
+   - Based on the model’s predictions, Big Mountain should consider increasing ticket prices to reflect the enhanced value provided by their facilities. This adjustment could be made gradually to assess market response.
+
+2. Explore Further Enhancements:
+   - The scenarios that involved increasing `LongestRun_mi` and expanding `Snow Making_ac` showed promising results. These improvements should be prioritized for further exploration and potential implementation.
+
+3. Test Run Closures:
+   - If run closures are considered, it is recommended to conduct a phased test to monitor customer satisfaction and ticket sales. This approach will allow the resort to make informed decisions about potential permanent closures.
+
+4. Make the Model Accessible:
+   - To allow for ongoing scenario testing without constant reliance on data scientists, the model should be made available to business analysts through a user-friendly interface or dashboard. This will enable the team to explore different pricing strategies and facility improvements independently.
+
+
+Conclusion
+Big Mountain Resort has the potential to increase its ticket prices significantly by making targeted improvements to its facilities. By carefully considering the additional costs and testing customer response, the resort can maximize its profitability while continuing to offer a competitive and valuable experience to visitors. Making the predictive model accessible to business analysts will ensure that the team can continue to make data-driven decisions as the resort evolves.
